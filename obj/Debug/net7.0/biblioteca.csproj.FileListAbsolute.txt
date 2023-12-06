@@ -1,0 +1,14 @@
+C:\Users\arami\OneDrive\Documentos\Ulbra\laboratório\AF\biblioteca\bin\Debug\net7.0\biblioteca.exe
+C:\Users\arami\OneDrive\Documentos\Ulbra\laboratório\AF\biblioteca\bin\Debug\net7.0\biblioteca.deps.json
+C:\Users\arami\OneDrive\Documentos\Ulbra\laboratório\AF\biblioteca\bin\Debug\net7.0\biblioteca.runtimeconfig.json
+C:\Users\arami\OneDrive\Documentos\Ulbra\laboratório\AF\biblioteca\bin\Debug\net7.0\biblioteca.dll
+C:\Users\arami\OneDrive\Documentos\Ulbra\laboratório\AF\biblioteca\bin\Debug\net7.0\biblioteca.pdb
+C:\Users\arami\OneDrive\Documentos\Ulbra\laboratório\AF\biblioteca\obj\Debug\net7.0\biblioteca.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arami\OneDrive\Documentos\Ulbra\laboratório\AF\biblioteca\obj\Debug\net7.0\biblioteca.AssemblyInfoInputs.cache
+C:\Users\arami\OneDrive\Documentos\Ulbra\laboratório\AF\biblioteca\obj\Debug\net7.0\biblioteca.AssemblyInfo.cs
+C:\Users\arami\OneDrive\Documentos\Ulbra\laboratório\AF\biblioteca\obj\Debug\net7.0\biblioteca.csproj.CoreCompileInputs.cache
+C:\Users\arami\OneDrive\Documentos\Ulbra\laboratório\AF\biblioteca\obj\Debug\net7.0\biblioteca.dll
+C:\Users\arami\OneDrive\Documentos\Ulbra\laboratório\AF\biblioteca\obj\Debug\net7.0\refint\biblioteca.dll
+C:\Users\arami\OneDrive\Documentos\Ulbra\laboratório\AF\biblioteca\obj\Debug\net7.0\biblioteca.pdb
+C:\Users\arami\OneDrive\Documentos\Ulbra\laboratório\AF\biblioteca\obj\Debug\net7.0\biblioteca.genruntimeconfig.cache
+C:\Users\arami\OneDrive\Documentos\Ulbra\laboratório\AF\biblioteca\obj\Debug\net7.0\ref\biblioteca.dll
